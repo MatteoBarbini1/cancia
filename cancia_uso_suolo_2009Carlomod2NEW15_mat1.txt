@@ -1,0 +1,28 @@
+Code	Roughness	Mobile	Erosion	Inferior	Angle	(°)	Erosion	Inferior	velocity	(m/s)	Depos	Sup	Angle	0	Depos	Sup	velocity	(m/s)	Erosion	limit	Structure	Sensori	Description
+111	1	1	89	9	14	1	0.62	0	0	0	Zone	residenziali	continue										
+112	1	1	89	9	14	1	0.62	0	0	0	Zone	residenziali	discontinue										
+121	1	1	89	9	14	1	0.62	0	0	0	Industrie	e	Cimitero										
+122	4	1	30	3	14	1	0.62	0	0	0	Rete	stradale											
+231	3	1	20	2	14	1	0.62	0	0	0	Prati	stabili											
+311	1	1	20	3	14	1	0.62	0	0	0	Boschi	di	latifoglie										
+312	1	1	20	3	14	1	0.62	0	0	0	Boschi	di	conifere										
+313	1	1	20	3	14	1	0.62	0	0	0	Boschi	misti											
+333	4	1	16	2	14	1	0.62	0	0	0	Vegetazione	rada											
+340	3	1	14.1	1	14	1	0.62	0	0	0	Ghiaioni												
+511	5	1	16	2	14	1	0.62	0	0	0	Fiumi	e	torrenti										
+601	5	1	16	1.8	14	1	0.62	0	0	0	Letto	alveo	canale	cancia									
+602	5	1	14	1	14	1	0.62	0	0	0	Sponde	alveo	canale	cancia									
+603	5	1	89	9	14	1	0.62	0	0	0	Muri	in	pietra	e	cls	integri							
+604	5	1	30	3	14	1	0.62	0	0	0	Muri	in	gabbioni	integri									
+606	5	1	14.1	1	14	1	0.62	0	0	0	Briglie	in	gabbioni	distrutti									
+607	5	1	14.1	1	14	1	0.62	0	0	0	Muri	in	gabbioni	distrutti									
+610	5	1	16	1.8	14	1	0.62	0	0	0	Tratto	piu	a	valle	del	canale							
+611	5	1	16	2	14	1	0.62	0	0	0	Tratto	intermedio	del	canale									
+612	5	1	16	2	14	1	0.62	0	0	0	Piazza	deposito	alta	dx	idro								
+613	5	1	16	2	14	1	0.62	0	0	0	Piazza	deposito	alta	sx	idro								
+614	5	1	14.1	0.3	14	1	0.62	0	0	0	Gabbioni	sfondati	monte										
+615	5	1	14.1	1	14	1	0.62	0	0	0	Gabbioni	sfondati	valle										
+																							
+																							
+																							
+																							
